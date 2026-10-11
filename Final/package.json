@@ -1,0 +1,19 @@
+{
+  "name": "gemini-fit-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Empacota o site Gemini Fit como aplicativo Android (APK) com Capacitor.",
+  "scripts": {
+    "icons": "capacitor-assets generate --android --iconBackgroundColor \"#000000\" --splashBackgroundColor \"#000000\" --splashBackgroundColorDark \"#000000\"",
+    "android:add": "cap add android",
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.2.0"
+  }
+}
