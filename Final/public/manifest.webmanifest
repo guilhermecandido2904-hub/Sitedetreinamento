@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "CTI Fabrício Borges",
-  "short_name": "CTI Borges",
-  "description": "Treinos, exercícios e acompanhamento da CTI Fabrício Borges.",
+  "name": "geminifit",
+  "short_name": "geminifit",
+  "description": "Treinos, exercícios e acompanhamento da geminifit.",
   "lang": "pt-BR",
   "dir": "ltr",
   "start_url": "./",
